@@ -142,7 +142,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #fff;
+  color: rgb(56, 243, 187);
   font-weight: bold;
 }
 
@@ -154,7 +154,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #fff;
+  color: rgb(255, 0, 0);
   font-weight: bold;
 }
 
