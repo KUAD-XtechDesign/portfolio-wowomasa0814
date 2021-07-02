@@ -130,7 +130,7 @@ footer {
   position: absolute;
   width: 100%;
   height: 10px;
-  background-color: #ccc;
+  background-color: rgb(255, 0, 0);
 }
 
 .top_eye_catch {
@@ -142,7 +142,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(56, 243, 187);
+  color: rgb(0, 0, 0);
   font-weight: bold;
 }
 
@@ -154,7 +154,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
   font-weight: bold;
 }
 
