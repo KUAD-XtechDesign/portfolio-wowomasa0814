@@ -190,7 +190,67 @@ footer {
   object-fit: cover;
   object-position: center center;
 }
+/*======================================================
+case1
+======================================================*/
 
+#case1{
+  border-left: 1px solid #000;
+  margin-left: 30px;
+  }
+  
+ #case1 li{
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 14px;
+ }
+  
+ #case1 li .year{
+  width: 80px;
+  display: flex;
+  align-items: center;
+ }
+  
+ #case1 li .year::before{
+  content: '';
+  display: block;
+  position: relative;
+  width: 14px;
+  height: 14px;
+  border-radius: 7px;
+  background-color: #ff9a02;
+  left: -7px;
+  margin-right: 5px;
+ }
+  
+ #case1 li .date{
+  width: 60px;
+ }
+  
+ #case1 li .content{
+  flex: 1;
+ }
+
+ /*======================================================
+case2
+======================================================*/
+ #case2 li{
+  display:flex ;
+  background-color: blue;
+  padding-bottom: 20px;
+ }
+
+ #case2 li .year{
+  background-color: red;
+  width: 100px;
+  font-size: 20px;
+  font-weight: bold;
+ }
+
+ #case li .content{
+  background-color: lime;
+  flex: 1;
+ }
 /*======================================================
 report
 ======================================================*/
