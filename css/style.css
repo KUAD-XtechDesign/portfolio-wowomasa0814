@@ -137,7 +137,6 @@ footer {
   height: 500px;
   background-image: url(../images/JUMP.jpg);
   background-size: cover;
-  background-position: center center;
   background-attachment: fixed;
   display: flex;
   align-items: center;
