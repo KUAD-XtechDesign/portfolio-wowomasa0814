@@ -135,7 +135,7 @@ footer {
 
 .top_eye_catch {
   height: 500px;
-  background-image: url(../images/JUMP.jpg);
+  background-image: url(../images/wellcome.jpg);
   background-size: cover;
   background-attachment: fixed;
   display: flex;
@@ -144,10 +144,31 @@ footer {
   color: rgb(255, 255, 255);
   font-weight: bold;
 }
-
+.cv_eye_catch {
+  height: 500px;
+  background-image: url(../images/my.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
 .report_eye_catch {
   height: 300px;
   background-image: url(../images/report.jpg);
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+.works_eye_catch {
+  height: 300px;
+  background-image: url(../images/JUMP.jpg);
   background-size: cover;
   background-position: center center;
   display: flex;
